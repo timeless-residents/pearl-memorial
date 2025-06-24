@@ -17,6 +17,16 @@ Pearl Memorialは、大切な人や瞬間の記憶を美しく保存し、共有
 
 このプロジェクトは現在開発中です。詳細な使用方法は後日更新予定です。
 
+## 開発に参加する
+
+このプロジェクトはGitHub Flowを採用しています。詳細は[CONTRIBUTING.md](CONTRIBUTING.md)をご覧ください。
+
+### ブランチ戦略
+- `main` - 本番環境（保護されています）
+- `develop` - 開発環境
+- `feature/*` - 新機能開発
+- `bugfix/*` - バグ修正
+
 ## ライセンス
 
 MIT License
